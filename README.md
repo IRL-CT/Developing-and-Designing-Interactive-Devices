@@ -2,7 +2,7 @@
 The main repository for the IDD class given by Wendy Ju in the Fall term of 2025 at Cornell Tech.
 
 ## Syllabus
-[Syllabus](https://canvas.cornell.edu/courses/56846/assignments/syllabus)
+[Syllabus](https://canvas.cornell.edu/courses/80789/assignments/syllabus)
 
 ## Class Discussion
 Class discussion will occur on the [Cornell Tech Slack](https://cornelltech.slack.com), in the channel #idd-fall25
