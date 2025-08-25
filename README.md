@@ -1,24 +1,22 @@
 # Interactive-Device-Design
-The main repository for the IDD class given by Wendy Ju in the Fall term of 2023 at Cornell Tech.
+The main repository for the IDD class given by Wendy Ju in the Fall term of 2025 at Cornell Tech.
 
 ## Syllabus
 [Syllabus](https://canvas.cornell.edu/courses/56846/assignments/syllabus)
 
 ## Class Discussion
-Class discussion will occur on the [Cornell Tech Slack](https://cornelltech.slack.com), in the channel #idd-fall23
+Class discussion will occur on the [Cornell Tech Slack](https://cornelltech.slack.com), in the channel #idd-fall25
 
 ## Lectures
 Lecture slides will be posted on Canvas.
 
 
 ## Labs
-Labs will be updated on the [Interactive Lab Hub](https://github.com/FAR-Lab/Interactive-Lab-Hub) as announced on Slack or during the class (typically on Tuesdays). You will need to pull lab updates each week to get the new lab code and materials.
+Labs will be updated on the [Interactive Lab Hub](https://github.com/FAR-Lab/Interactive-Lab-Hub) as announced on Slack or during the class (typically on Mondays). You will need to pull lab updates each week to get the new lab code and materials.
 
 
 
 ## Final Project
-
-[Final Project](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2023Fall/FinalProject.md)
 
 
 
@@ -32,8 +30,8 @@ When submitting your assignments, you will update your assignments on your own c
 
 ## Office Hours 
 
-The main time to talk to the teaching team about your labs or projects are during the Thursday labs. 
+The main time to talk to the teaching team about your labs or projects are during the Wednesday labs. 
 
 Outside of that time, Professor Ju is generally available on Slack, and usually respond within hours during their working day, and by the next working day otherwise. 
 
-The TAs office hours will be on Fridays.
+The TAs office hours will be on [TBD].
