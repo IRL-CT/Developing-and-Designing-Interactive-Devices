@@ -34,4 +34,9 @@ The main time to talk to the teaching team about your labs or projects are durin
 
 Outside of that time, Professor Ju is generally available on Slack, and usually respond within hours during their working day, and by the next working day otherwise. 
 
-The TAs office hours will be on [TBD].
+The TAs office hours will be:
+- Ruixiang "Albert" Han, rh652@cornell.edu
+- Hauke Sandhaus, hgs52@cornell.edu
+  - Office Hours Thursdays, 10 am-12 pm, Tata 351 or Zoom (See Link on Canvas).
+
+
