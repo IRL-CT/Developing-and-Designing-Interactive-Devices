@@ -2,11 +2,11 @@
 
 Using the tools and techniques you learned in this class, design, prototype and test an interactive device.
 
-Project plan - November 11
+Project plan - November 10  (updated documentation due in Canvas November 11)
 
-Peer feedback on Project plans: November 21 & 24
+** Peer feedback on Project plans: November 13 ** <-- this is part of class participation!
 
-Functional check-off - December 1 & 3
+Functional check-off - December 1 
 
 Final Project Presentations - December 8
 
@@ -39,9 +39,13 @@ It is fine to change your project goals, but please resubmit the project plan fo
 ## Grading rubric
 
 20% Project planning: Allocation of needed resources (time, people, materials, facilities) anticipated well.
+
 20% Design of project: Interaction, hardware and software aspects of projects planned well.
+
 20% Testing of project: Functional or wizarded system tested with people
+
 20% Prototype functionality: System capable of interaction, either through autonomous or wizarded mechanisms
+
 20% Project documentation: Text, video, and photo of project illustratign capability and documenting plans and process
 
 ## Teams
