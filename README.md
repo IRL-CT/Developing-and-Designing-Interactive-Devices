@@ -14,10 +14,23 @@ Lecture slides will be posted on Canvas.
 ## Labs
 Labs will be updated on the [Interactive Lab Hub](https://github.com/FAR-Lab/Interactive-Lab-Hub) as announced on Slack or during the class (typically on Mondays). You will need to pull lab updates each week to get the new lab code and materials.
 
+[Lab 1. Staging Interaction](https://github.com/IRL-CT/Interactive-Lab-Hub/tree/Fall2025/Lab%201)
+
+[Lab 2. Interactive Prototyping: The Clock of Pi](https://github.com/IRL-CT/Interactive-Lab-Hub/tree/Fall2025/Lab%202)
+
+[Lab 3. Chatterboxes](https://github.com/IRL-CT/Interactive-Lab-Hub/tree/Fall2025/Lab%203)
+
+[Lab 4. Ph-UI!!!](https://github.com/IRL-CT/Interactive-Lab-Hub/tree/Fall2025/Lab%204)
+
+[Lab 5. Observant Systems](https://github.com/IRL-CT/Interactive-Lab-Hub/tree/Fall2025/Lab%205)
+
+[Lab 6. Little Interactions Everywhere](https://github.com/IRL-CT/Interactive-Lab-Hub/tree/Fall2025/Lab%206)
+
 
 
 ## Final Project
 
+[Final Project](https://github.com/IRL-CT/Developing-and-Designing-Interactive-Devices/blob/2025Fall/FinalProject.md)
 
 
 ## Student Submissions:
